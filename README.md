@@ -12,7 +12,7 @@ A learning / portfolio project: an end-to-end **medallion lakehouse** (bronze �
 > pipeline let through into gold, adding data quality checks that fail the run, a single end-to-end entry
 > point, and a local runner to test it without Databricks. See [My changes](#my-changes). The commit history
 > separates the imported baseline from my changes.
-> The original project is MIT-licensed by Baraa Khatib Salkini. See [LICENSE](LICENSE).
+> The original project is MIT-licensed by Baraa Khatib Salkini ([license](https://github.com/DataWithBaraa/databricks_bootcamp_2026/blob/main/LICENSE)).
 
 ---
 
@@ -141,7 +141,3 @@ I also added a header and comments to every notebook explaining what each step d
 ## Tech
 
 Databricks · Apache Spark (PySpark, Spark SQL) · Delta Lake · Unity Catalog
-
-## License
-
-MIT. See [LICENSE](LICENSE). Original project © 2026 Baraa Khatib Salkini; my modifications © 2026 Rameez Shafat.
